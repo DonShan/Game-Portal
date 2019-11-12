@@ -1,0 +1,46 @@
+PODS:
+  - Alamofire (5.0.0-rc.3)
+  - ObjectMapper (3.5.1)
+  - "ObjectMapper+Realm (0.9)":
+    - ObjectMapper
+    - RealmSwift
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - SDWebImage (5.2.5):
+    - SDWebImage/Core (= 5.2.5)
+  - SDWebImage/Core (5.2.5)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.3)
+  - ObjectMapper (~> 3.4)
+  - "ObjectMapper+Realm"
+  - RealmSwift
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ObjectMapper
+    - "ObjectMapper+Realm"
+    - Realm
+    - RealmSwift
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  "ObjectMapper+Realm": 5494d4d39574a2b63a8a6a856ce2457b957e2f46
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  SDWebImage: 4eabf2fa6695c95c47724214417a9c036c965e4a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 8a1bd787165abc3dde510ce7e0dd454bb336f589
+
+COCOAPODS: 1.8.4
